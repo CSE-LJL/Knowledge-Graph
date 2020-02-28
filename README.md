@@ -6,7 +6,7 @@
 * [解读](https://github.com/pizzaonline/Knowledge-Graph/blob/master/DKN%20Deep%20Knowledge-Aware%20Network%20-%203.0.pptx)
 * [代码]()
 
-##  知识图谱研究综述知识图谱研究综述 
+##  知识图谱研究综述
 
 * [链接]()
 * [解读]()
