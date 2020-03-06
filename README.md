@@ -9,7 +9,7 @@
 
 ##  知识图谱研究综述
 
-* [链接]()暂无
+* [链接](http://www.c-s-a.org.cn/csa/ch/reader/view_abstract.aspx?file_no=6915&flag=1)
 * [解读]()暂无
 * [代码]()暂无
 
