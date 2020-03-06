@@ -9,12 +9,18 @@
 
 ##  知识图谱研究综述
 
-* [链接]()
-* [解读]()
-* [代码]()
+* [链接]()暂无
+* [解读]()暂无
+* [代码]()暂无
 
 ## 二模网络图谱绘制（论文查询的知识图谱）
 
 * [链接](https://zhuanlan.zhihu.com/p/108759906)
-* [解读]()
-* [代码]()
+* [解读]()暂无
+* [代码]()暂无
+
+## A Survey on Knowledge Graphs: Representation, Acquisition and Applications
+
+* [链接](https://arxiv.org/abs/2002.00388v1)
+* [解读]()暂无
+* [代码]()暂无
