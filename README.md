@@ -22,7 +22,7 @@
 ## A Survey on Knowledge Graphs: Representation, Acquisition and Applications
 
 * [链接](https://arxiv.org/abs/2002.00388v1)
-* [解读]()暂无
+* [解读](https://github.com/pizzaonline/Knowledge-Graph/blob/master/%E8%A7%A3%E8%AF%BB%E6%B1%87%E6%80%BB/DRN:%20A%20Deep%20Reinforcement%20Learning%20Framework%20for%20News%20Recommendation)暂无
 * [代码]()暂无
 
 ## DRN: A Deep Reinforcement Learning Framework for News Recommendation
