@@ -24,3 +24,9 @@
 * [链接](https://arxiv.org/abs/2002.00388v1)
 * [解读]()暂无
 * [代码]()暂无
+
+## DRN: A Deep Reinforcement Learning Framework for News Recommendation
+
+* [链接](https://www.researchgate.net/publication/324508001_DRN_A_Deep_Reinforcement_Learning_Framework_for_News_Recommendation)
+* [解读]()暂无
+* [代码]()暂无
